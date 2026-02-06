@@ -205,3 +205,13 @@ h2{margin:0 0 8px; font-size:28px; letter-spacing:-.4px}
   .quick{grid-template-columns:1fr}
   .nav{display:none}
 }
+
+.form-wrap {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.small {
+  opacity: 0.85;
+  font-size: 0.95rem;
+}
